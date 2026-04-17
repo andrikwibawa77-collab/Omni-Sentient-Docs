@@ -1,0 +1,1 @@
+[Market Data] -> [Kalman Filter] -> [Entropy Scan] -> [Veto Gate] -> [FIX 4.4 Gateway]
